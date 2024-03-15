@@ -4,7 +4,7 @@
     font-family: Roboto;
 }
 html{
-    background-color: #fff;
+    background-color: #000;
 }
 
 nav{
@@ -14,8 +14,16 @@ nav{
     align-items: center;
     justify-content: center;
     background-color: #000;
+    /* border-bottom: 2px solid #fff; */
+    /* #43FFD1 */
 }
 nav img{
     width: 100px;
     height: 100px;  
+}
+
+h1{
+    color: #fff;
+    background-image: url("../img/backgroundh1.png");
+    text-align: center;
 }
