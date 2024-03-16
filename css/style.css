@@ -103,7 +103,7 @@ nav img{
 
 .apresentation{
     background-image: url("../img/backgroundmain.png");
-    width: 1022px;
+    width: 1232px;
     height: 600px;
     display: flex;
     flex-direction: column;
@@ -112,6 +112,8 @@ nav img{
     color: #fff;
     border-radius: 40px;
     margin-top: 30px;
+    background-position: center;
+    background-size: cover;
 }
 
 .apresentation h1{
@@ -132,4 +134,14 @@ nav img{
     width: 100%;
     height: 740px;
     background-color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+#aboutme-container img{
+    border-radius: 50%;
+    width: 324px;
+    height: 324px;
+    border: 5px solid #98ffe1;
+    margin-left: 104px;
 }
