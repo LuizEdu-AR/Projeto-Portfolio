@@ -44,6 +44,23 @@ nav img{
     text-decoration: none;
     color: #fff;
     font-size: 16px;
+    transition: 0.3s;
+}
+
+#op1:hover{
+    color: #98ffe1;
+}
+#op2:hover{
+    color: #98ffe1;
+}
+#op3:hover{
+    color: #98ffe1;
+}
+#op4:hover{
+    color: #98ffe1;
+}
+#op5:hover{
+    color: #98ffe1;
 }
 
 .git-button{
