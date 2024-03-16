@@ -124,7 +124,7 @@ nav img{
     margin-bottom: 15px;
 }
 
-.apresentation span{
+.negrito{
     color: #43FFD1;
 }
 
@@ -145,14 +145,24 @@ nav img{
     border-radius: 50%;
     width: 324px;
     height: 324px;
-    border: 5px solid #00342E;
+    border: 5px solid #00715f;
     margin-left: 104px;
+
+}
+
+.aboutme-subcon{
+    width: 710px;
+    height: 356px;
+    background-color: #00715f;
+    margin-left: 198px;
+    border-radius: 30px;
 }
 
 .aboutme-text{
-    width: 710px;
-    height: 356px;
-    background-color: #00342E;
-    margin-left: 198px;
-    border-radius: 30px;
+    margin: 40px 50px;
+}
+
+.aboutme-text p{
+    font-size: 24px;
+    color: #fff;
 }
